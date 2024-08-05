@@ -627,7 +627,6 @@ dont-distribute-packages:
  - beam-automigrate
  - beam-postgres
  - beam-th
- - bearriver
  - beautifHOL
  - bech32-th
  - bein
@@ -1207,7 +1206,6 @@ dont-distribute-packages:
  - dsh-sql
  - dsmc-tools
  - dtd
- - dunai-test
  - dvda
  - dynamic-cabal
  - dynamic-pipeline
